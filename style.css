@@ -1,3 +1,50 @@
-body {
+body {background-color: #aeb8fe}
 
+h2 {color: #712f79;
+    font-size: 500%;
+    border: dashed blue 3px;
+  font-family: 'Allison', cursive;
+} 
+img {border: dotted pink 5px}
+
+iframe {border: solid cyan 10px}
+
+img:hover {
+  border: dotted pink 40px
 }
+
+iframe:hover {
+  border: solid darkblue 40px
+}
+
+p {font-size: 300%;
+   text-align: center;
+  color: #03d9;
+  border: dashed blue;
+}
+
+li {font-size: 200%}
+
+ul {
+  text-align: left;
+  margin-left: 38%;
+  list-style: inside;
+  list-style-type: circle;
+  color: #b7fdfe;
+}
+
+table, tr, td, th {
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding: 10px;
+  font-size: 130%;
+}
+
+table {width: 60%;
+text-align: center;
+  border: solid hotpink 20px
+}
+
+tr:nth-child(even) {background-color: lightpink}
+
+tr:nth-child(odd):hover {background-color: cyan;}
