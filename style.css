@@ -48,3 +48,21 @@ text-align: center;
 tr:nth-child(even) {background-color: lightpink}
 
 tr:nth-child(odd):hover {background-color: cyan;}
+
+h1 {
+  text-align: center;
+  color: #9E0059;
+  font-size: 300%;
+}
+
+body {
+  background-color: #FFFFFB;
+}
+
+img {border: dashed darkred 10px}
+
+img:hover {
+  border: dotted #A67F8E 20px;
+}
+
+
