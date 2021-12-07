@@ -23,7 +23,6 @@ p {font-size: 300%;
   border: dashed blue;
 }
 
-li {font-size: 200%}
 
 ul {
   text-align: left;
@@ -51,7 +50,7 @@ tr:nth-child(odd):hover {background-color: cyan;}
 
 #Nav {
   list-style-type: none;
-  width: 100%;
+  width: 200%;
   overflow: hidden;
   position: fixed;
   background-color: lightblue;
