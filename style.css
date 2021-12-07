@@ -50,7 +50,7 @@ tr:nth-child(odd):hover {background-color: cyan;}
 
 #Nav {
   list-style-type: none;
-  width: 200%;
+  width: 300%;
   overflow: hidden;
   position: fixed;
   background-color: lightblue;
